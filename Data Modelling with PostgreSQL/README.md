@@ -13,3 +13,4 @@ The schema used is the Star Schema and why relational databases is a good choice
 1. First run create_tables.py
 3. Check etl.ipynb and then run etl.py
 4. Test in the notebook tests.ipynb
+
