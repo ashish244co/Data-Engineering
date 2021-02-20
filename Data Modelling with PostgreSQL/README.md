@@ -5,7 +5,7 @@ We create an ETL pipeline by running queries given by the analytics team from Sp
 # Database Schema
 The schema used is the Star Schema and why relational databases is a good choice here because since data is not much, data types are fixed and structured, we get data integrity. 
 
-### Fact table: songplays - records related to song plays.
+### Fact table: songplays (records related to song plays)
 
 ### Dimension tables: users, songs, artists and time.
 
