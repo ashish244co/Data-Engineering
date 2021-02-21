@@ -34,7 +34,7 @@ The schema used is the Star Schema and why relational databases is a good choice
 |---|---|---|
 |   song_id| varchar  |   PRIMARY KEY| 
 |   title|   varchar|  | 
-|   artist_id|   varchar|   | 
+|   artist_id|   varchar| NOT NULL  | 
 |   year|   int |   | 
 |   duration|   float|   | 
 #### artists 
